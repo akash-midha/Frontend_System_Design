@@ -39,7 +39,6 @@
 ---
 
 ## 🧰 Tools & Technologies
-
 - **Module Federation (Webpack 5)**: Load and share code between apps at runtime.
 - **Web Components**: Framework-agnostic reusable UI components.
 - **Single-SPA**: Framework for integrating multiple micro frontends.
